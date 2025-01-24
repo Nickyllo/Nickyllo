@@ -12,5 +12,4 @@
 
 # Redes Sociales
 
-- Discord: [Mi Discord](https://discordapp.com/users/1309846092711596037)
-- Mi GitHub: [Mi GitHub](https://github.com/Nickyllo/)
+[![Discord](https://img.shields.io/badge/Mi_Discord-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1309846092711596037)
