@@ -1,14 +1,14 @@
 # Sobre Mi
 
 - 👋 Hola, soy **@nickyllo**
-- 👀 Me gusta mucho programar y hablar.
-- 🌱 Hablo español, inglés.
+- 👀 Me gusta usar Python.
+- 🌱 Hablo español.
 - 💞 Busco colaboracion con alguien.
 - 📫 Para contartarme escribeme a mi correo: nickyllo@hotmail.com.
 - 😄 Mis generos son: He/His/Him.
-- ⚡ Actualmente estoy trabajando en mi proyecto personal Mango.
+- ⚡ Actualmente no tengo proyectos en mente.
 - ✨ Tengo bastantre experiencia con Python, Java, C+, C#, HTML, CSS.
-- 🐢 Tengo una tortuga, se llama Doroty.
+- 🐢 Tengo una tortuga.
 
 # Redes Sociales
 
