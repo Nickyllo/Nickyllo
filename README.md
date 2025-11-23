@@ -6,7 +6,7 @@
 - 💞 Busco colaboracion con alguien.
 - 📫 Para contartarme escribeme a mi correo: nickyllo@hotmail.com.
 - 😄 Mis generos son: He/His/Him.
-- ⚡ Actualmente no tengo proyectos en mente.
+- ⚡ Actualmente estoy trabajando en nickyllo.com -
 - ✨ Tengo bastante experiencia con Python.
 - 🐢 Tengo una tortuga.
 
