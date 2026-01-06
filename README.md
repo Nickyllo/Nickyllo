@@ -1,13 +1,13 @@
 # Sobre Mi
 
 - 👋 Hola, soy **@nickyllo**
-- 👀 Me gusta usar Python.
+- 👀 Me gusta usar Java.
 - 🌱 Hablo español.
-- 💞 Busco colaboracion con alguien.
+- 💞 No puedo colaborar por ahora.
 - 📫 Para contartarme escribeme a mi correo: nickyllo@hotmail.com.
 - 😄 Mis generos son: He/His/Him.
-- ⚡ Actualmente estoy trabajando en nickyllo.com -
-- ✨ Tengo bastante experiencia con Python.
+- ⚡ Actualmente estoy trabajando en proyectos de Java.
+- ✨ Tengo bastante experiencia con Python y Java.
 - 🐢 Tengo una tortuga.
 
 # Redes Sociales
