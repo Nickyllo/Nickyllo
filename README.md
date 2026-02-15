@@ -1,12 +1,11 @@
 # Sobre Mi
 
 - 👋 Hola, soy **@nickyllo**
-- 👀 Me gusta usar Java.
 - 🌱 Hablo español.
 - 💞 No puedo colaborar por ahora.
 - 📫 Para contartarme escribeme a mi correo: nickyllo@nickyllo.com.
 - 😄 Mis generos son: He/His/Him.
-- ⚡ Actualmente estoy trabajando en proyectos de Java.
+- ⚡ Actualmente estoy trabajando en mi portafolio: [nickyllo.com](https://nickyllo.com)
 - ✨ Dev de JavaScript y Python.
 - 🐢 Tengo una tortuga.
 
