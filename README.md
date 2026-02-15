@@ -4,10 +4,10 @@
 - 👀 Me gusta usar Java.
 - 🌱 Hablo español.
 - 💞 No puedo colaborar por ahora.
-- 📫 Para contartarme escribeme a mi correo: nickyllo@hotmail.com.
+- 📫 Para contartarme escribeme a mi correo: nickyllo@nickyllo.com.
 - 😄 Mis generos son: He/His/Him.
 - ⚡ Actualmente estoy trabajando en proyectos de Java.
-- ✨ Tengo bastante experiencia con Python y Java.
+- ✨ Dev de JavaScript y Python.
 - 🐢 Tengo una tortuga.
 
 # Redes Sociales
