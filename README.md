@@ -1,13 +1,7 @@
-# Sobre Mi
-
-- 👋 Hola, soy **@nickyllo**
-- 🌱 Hablo español.
-- 💞 No puedo colaborar por ahora.
-- 📫 Para contartarme escribeme a mi correo: nickyllo@nickyllo.com.
-- 😄 Mis generos son: He/His/Him.
-- ⚡ Actualmente estoy trabajando en mi portafolio: [nickyllo.com](https://nickyllo.com)
-- ✨ Dev de JavaScript y Python.
-- 🐢 Tengo una tortuga.
+• Colombia.
+•  Dev de JavaScript Y Python y C++.  
+•  Juego favorito: MSFS. 󠁛󠀣󠀱󠁥󠀰󠀷󠀷󠀷󠀬󠀣󠁥󠀳󠀹󠀱󠀲󠀶󠁝
+•  AvGeek. - A350-1000 | Lufthansa
 
 # Redes Sociales
 
