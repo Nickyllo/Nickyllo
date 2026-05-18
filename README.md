@@ -1,7 +1,10 @@
-- Colombia.
-- Dev de JavaScript Y Python y C++.  
-- Juego favorito: MSFS. 󠁛󠀣󠀱󠁥󠀰󠀷󠀷󠀷󠀬󠀣󠁥󠀳󠀹󠀱󠀲󠀶󠁝
-- AvGeek. - A350-1000 | Lufthansa
+❋ **Colombia**
+
+✦ Dev de JS & Python &  C++ 
+
+✦ Juego favorito: **MSFS**
+
+✦ AvGeek. - A350-1000 🔥
 
 # Redes Sociales
 
